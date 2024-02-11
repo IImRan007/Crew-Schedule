@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "flash-zenith-413016",
+  "private_key_id": "c2cbd59135cd84d5571386ef2b1783b4bdbd02ea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDZbC3UNn2uZ4OW\nzECw+9uqsh+RaUD/56838Rq62oRKu3v5U8e59GbZNf8yQa00o8sxnjKQDy06wQUL\nWrbk/xgT8S9yQCVJAjmUgFKB+orDWu/DOakbOBeFrtGGsFaU1qGB/ATsWnUFXyW+\nqf7Cyxwv4OUWREtbAUAvK++iFXl3Ta849lLf4+FAxXgZ5Vj1JLYduzkfBSEhEH9Q\nLEpCWDqlAAzDegKeIjlFtstoLAmr3IuOtKZb41eIMeaLKu3H1xV4e7lD57EXJhRZ\n/i6dMhqDfi9BkZ2bHFn0lSDDbJj2O6r2RIM6vPAs39IPKPcRpvac1oMfSGYr85L/\nRok0cTSxAgMBAAECggEAV+4csLTi6kw51xw+03TgN233P18iZvxDjCvJpCTomLKv\nJjwAS8+wYosobKJMErxlWmlAyKsinx7d0+Q5kG4sRjBmAF451gd80vZ8p810HiKi\nUcF5hyUNukZjvYWGVoZg5glO0mmY5vW+dZgZjJ0JBsH81B8FnMXqN8mcjeACckEt\nNPGsUTUY/kbLE1mMI/XlgUU8M4nWEqxjtxYPftNbCViKJY/DZXXi1NLPAB+fNecH\nbJKdsBc86ICqelgOlYw9l83aO9H+j1IDmK5KHio+JmN0qOPWgDkTPqBm3BSOw16f\ng6VFy4bSDJ8tapbMWhZelUKbx+P4+Y0vx2Ut48pQGwKBgQD03HxZkthYoo4V7iJx\nDfwS2rXyYFjf5PfhocT0DyXhNIWqVRqLn4C65BYup/jmYRXXBl66lX7rMy/BXydQ\nH27RDjCcFEj5YDnUYKADSpry3vrdCR71M5rdQLJAppSgLKMPbBW6L43y18xSmWxh\nSW4F+8Idg+RiOhqlsVdSv/9eswKBgQDjUChsLuGzIdaIK/8uap+a0El3oT9GMwH1\nJql0btTG4DC2abLuY5OO4Zvwbg5L1F9LrSPN2uOKtNssIYY/AsftD6gGnx0JJ2rd\n+YOKc7Oyvd27N6B9Vd5DseKtdSUFZc2bL0RiAZdgKnlfgFv0bxvYoEG/xXT1SFNH\n2XcGuzjRCwKBgQCy66mxiiusGJvaSnfARIe8/zOUN/K5J4Y5yQsxiyASv14saKNN\nAu/9oEzVKsglDyv2QyFVFYf4NR7gHbeMRGulNskuQ2RPVJDtLu29efZfIbANc2y7\nn0m6Alw+AXr4z6UWz9PQiI8gs68JbDJVpGJQ3PWqu4VWgT6XdE5qmQDxIQKBgAjs\no7mjmY7b3D1aZNlgrEV6ufetZ/uMkx4Z13tPwqDQOnle6vx7AlcQunuVBpCplNg2\nwvoZBufyM8ymwEuHA2xmOfWQl6Y9Wu++FREBe+Ofmq34ACALl/9WY4zl1X9BwPG/\nyFKEt3m6ESvTsUiGeDRoDkzGJtJedY6Tlh24igGDAoGBAIe6jPoh5z7qxRGTzBfS\njLr94T7drEDKAt2ZNSKVDkHEnB6QWDOw29V/8FWoUpPH/8AioNgGDRLtg+Be5PAS\nAb+W7+kIGGm4UeQzM73mmhi5v2CCBsiB3VJz0vUqJBerwOw6yyY/+3GY+EBZamYp\nkktAeo12UbMyA4I9VVxnwp6q\n-----END PRIVATE KEY-----\n",
+  "client_email": "crewschedule@flash-zenith-413016.iam.gserviceaccount.com",
+  "client_id": "117056236260619319825",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crewschedule%40flash-zenith-413016.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

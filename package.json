@@ -1,0 +1,27 @@
+{
+  "name": "crew-schedule-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.41.3",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.2",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "express-fileupload": "^1.4.3",
+    "google-auth-library": "^9.4.2",
+    "googleapis": "^131.0.0",
+    "mongoose": "^8.1.0",
+    "nodemailer": "^6.9.8",
+    "shortid": "^2.2.16"
+  }
+}
