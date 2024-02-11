@@ -56,3 +56,10 @@ To run this project, you will need to add the following environment variables to
 `REFRESH_TOKEN`
 
 `ACCESS_TOKEN`
+
+## Acknowledgements
+
+- Node.js
+- MongoDB
+- Google Sheets API
+- Nodemailer
