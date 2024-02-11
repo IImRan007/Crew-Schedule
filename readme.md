@@ -4,8 +4,8 @@ The Crew Management App is a robust solution designed to streamline the process 
 
 ## Features
 
-- Member Registration: Easily register new members by sending registration emails.
-- Google Sheets Integration: Seamlessly transfer member data to Google Sheets for centralized management and collaboration.
+- **Member Registration**: Easily register new members by sending registration emails.
+- **Google Sheets Integration**: Seamlessly transfer member data to Google Sheets for centralized management and collaboration.
 
 ## Run Locally
 
